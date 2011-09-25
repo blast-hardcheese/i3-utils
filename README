@@ -1,0 +1,12 @@
+i3-utils: Utilities to enhance i3
+
+
+Current Utilities:
+    * tagger.py: Arbitrary workspace switching using dmenu (a la wmii)
+      Dependencies:
+        * i3ipc (https://github.com/blast-hardcheese/i3ipc/)
+      Optional Dependencies:
+        * xpyb (http://cgit.freedesktop.org/xcb/xpyb/)
+
+Authors:
+  Devon Stewart <blast@hardchee.se>
